@@ -4,7 +4,7 @@ Introduction
 This package can be used to generate ascii arts on terminals and also integrated to java applications, Here to replace Sudo apt-get install 'figlet'
 
 # Installation
-Jdk or jre of any version installed on machine
+Jdk or jre of any version installed on machine AsciiTextGen
 
 download from [here!](www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
@@ -38,6 +38,7 @@ _CHANGE THE VARIABLE c TO you TO USE STRINGS AS DECODING OPTIONS_
         c = inputc.next(".").charAt(0);
     987    //you = inputs.nextLine();
 ```   
+#AsciitextGen
     
     # How can I thank you?
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or Facebook? Spread the word!
